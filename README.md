@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning advanced JavaScript frameworks like React and Vue.js.
 - 💞️ I’m looking to collaborate on innovative web development projects and open-source contributions.
 - 📫 How to reach me: [rievarhamdani@gmail.com] | [www.linkedin.com/in/mochamad-rieva-567a07317] | [https://mrieva.github.io/cvrieva/]
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love exploring new hiking trails on weekends!
 
 ## 🛠 Skills
